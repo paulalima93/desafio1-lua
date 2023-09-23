@@ -1,17 +1,5 @@
 os.execute("chcp 65001") --coloca de forma automatizada o terminal em utf-8, assim ele reconhece acentos e emoji
 
---criatura
--- local monsterName = "Creeper"
--- local description = "Um monstro furtivo com temperamento explosivo"
--- local emoji = "💥"
-
--- atributos (att)
--- local attackAtt = 10
--- local defenseAtt = 2
--- local lifeAtt = 5
--- local speedAtt = 7
--- local inteligenceAtt = 2
-
 -- info dos pokemon
 local pokemonName, description, registerNumber, type
 local attackAtt, defenseAtt, lifeAtt, speedAtt, specialAttackAtt, specialDefenseAtt
